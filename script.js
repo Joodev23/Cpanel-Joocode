@@ -58,7 +58,7 @@ function initializeDashboard() {
 
   if (akses !== "true") {
     alert("Akses ditolak! Silakan login dulu.");
-    window.location.href = "index.html";
+    window.location.href = "src.html";
     return;
   }
 
